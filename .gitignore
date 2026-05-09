@@ -1,0 +1,15 @@
+.venv/
+.venv_old/
+build/
+build_old/
+__pycache__/
+*.pyc
+*.o
+*.so
+*.a
+*.log
+*.bak
+*.bak_*
+*.old
+.pkl_memoize_py3
+tpu_demo/ppl/generated/
